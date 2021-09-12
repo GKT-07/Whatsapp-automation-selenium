@@ -1,0 +1,168 @@
+1570827330498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu9DMKZ"
+1570827341835	Marionette	INFO	Listening on port 38091
+1570827341938	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1570827432555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXquvkD"
+1570827438852	Marionette	INFO	Listening on port 40695
+1570827438886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1570828218185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1bRgaU"
+1570828225239	Marionette	INFO	Listening on port 41461
+1570828225320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1570828333398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwCvpE"
+1570828339487	Marionette	INFO	Listening on port 45711
+1570828339534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1570828426762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZCiCi7"
+1570828433571	Marionette	INFO	Listening on port 36857
+1570828433595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1570828765980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoXTqrE"
+1570828772350	Marionette	INFO	Listening on port 45295
+1570828772403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1570829242685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAM7Dz1"
+1570829249064	Marionette	INFO	Listening on port 44717
+1570829249118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+1570829489523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2tdD9"
+1570829496251	Marionette	INFO	Listening on port 44363
+1570829496442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1570829756492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevXydcz"
+1570829762558	Marionette	INFO	Listening on port 37945
+1570829762620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+1570829899547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUXia6"
+1570829905689	Marionette	INFO	Listening on port 42723
+1570829905764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1570830048963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefqwMyS"
+1570830054990	Marionette	INFO	Listening on port 46401
+1570830055010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570830265684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16R1ud"
+1570830271709	Marionette	INFO	Listening on port 41909
+1570830271801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+1570830450093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegpJD2G"
+1570830455941	Marionette	INFO	Listening on port 34355
+1570830456011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+1570830906235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiFakO9"
+1570830912865	Marionette	INFO	Listening on port 35507
+1570830912953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1570830974901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM8U08r"
+1570830982151	Marionette	INFO	Listening on port 45243
+1570830982302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1570866195425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewzk0KP"
+1570866200396	Marionette	INFO	Listening on port 38345
+1570866200409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 2220, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-esr-4oYyar/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1570866431316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0oDV4D"
+1570866438728	Marionette	INFO	Listening on port 46707
+1570866438749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 2454, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-esr-4oYyar/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1570868654696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinxufF"
+1570868661329	Marionette	INFO	Listening on port 41341
+1570868661414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+1570869174834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMn7FLx"
+1570869181417	Marionette	INFO	Listening on port 44433
+1570869181479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1570869574193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileluNGzw"
+1570869583541	Marionette	INFO	Listening on port 35701
+1570869583618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.20893200811e56e44c78.js, line 2: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1571335138993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewyOJ0b"
+1571335150918	Marionette	INFO	Listening on port 36387
+1571335150998	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1571335153415	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
